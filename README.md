@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Purin1410
 
-<!--
-**Purin1410/Purin1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI undergraduate focused on applied machine learning, computer vision, and industrial AI systems.
 
-Here are some ideas to get you started:
+My current interests are centered on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Vision-language models for industrial visual inspection
+- Zero-shot and few-shot defect detection
+- Synthetic data and sim-to-real learning
+- Safety-critical AI for manufacturing and robotics
+- Knowledge ingestion, research tooling, and AI-assisted engineering workflows
+
+## Current Focus
+
+I am currently building a stronger research and engineering profile around industrial AI, with an emphasis on practical systems that connect machine learning research with real-world inspection, automation, and robotics use cases.
+
+## Research & Publications
+
+Selected research areas:
+
+- Handwritten mathematical expression recognition
+- Chemical formula and scientific document understanding
+- Vision-language models for defect detection
+- Industrial AI and smart manufacturing systems
+
+Publications and project details will be added here.
+
+## Featured Projects
+
+### Knowledge Ingestion Pipeline
+
+A toolchain for collecting, normalizing, and organizing technical documents into a structured knowledge base for AI-assisted research and engineering workflows.
+
+### NexOps
+
+An industrial AI / smart manufacturing project focused on machine data ingestion, simulation, monitoring, and AI-ready infrastructure.
+
+### Portfolio Website
+
+A personal portfolio and project showcase site for research, engineering, and selected technical work.
+
+## Technical Stack
+
+**AI / ML:** PyTorch, Transformers, computer vision, vision-language models  
+**Engineering:** Python, FastAPI, data pipelines, testing, automation  
+**Workflow:** GitHub, Codex, Claude Code, Obsidian, Zotero  
+**Interests:** Industrial AI, robotics, defect detection, safety-critical systems
+
+## Contact
+
+- GitHub: @Purin1410
+- LinkedIn: To be added
+- Google Scholar: To be added
+- Portfolio: To be added
+- CV: To be added
