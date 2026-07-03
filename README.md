@@ -25,19 +25,6 @@ Selected research areas:
 
 Publications and project details will be added here.
 
-## Featured Projects
-
-### Knowledge Ingestion Pipeline
-
-A toolchain for collecting, normalizing, and organizing technical documents into a structured knowledge base for AI-assisted research and engineering workflows.
-
-### NexOps
-
-An industrial AI / smart manufacturing project focused on machine data ingestion, simulation, monitoring, and AI-ready infrastructure.
-
-### Portfolio Website
-
-A personal portfolio and project showcase site for research, engineering, and selected technical work.
 
 ## Technical Stack
 
