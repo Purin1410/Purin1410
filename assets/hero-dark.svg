@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 150" width="960" height="150" role="img" aria-label="A handwritten integral expression transformed into its LaTeX token sequence">
+<rect width="960" height="150" fill="#0D1117"/>
+<rect x="0" y="149" width="960" height="1" fill="#21262D"/>
+<g transform="rotate(-1.2 190 90)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M 118 47 C 118 33 102 31 100 46 C 97 66 95 86 93 106 C 91 120 76 121 76 107" stroke="#E6EDF3" stroke-width="3.6"/>
+  <path d="M 128 106 C 134 105 138 111 138 118 C 138 125 134 130 128 130 C 122 130 118 125 118 118 C 118 111 122 106 128 106" stroke="#E6EDF3" stroke-width="2.4"/>
+  <path d="M 122 47 L 128 41 L 128 68" stroke="#E6EDF3" stroke-width="2.4"/>
+  <path d="M 160 76 C 169 86 179 95 187 103" stroke="#E6EDF3" stroke-width="3.4"/>
+  <path d="M 187 76 C 179 86 169 95 160 103" stroke="#E6EDF3" stroke-width="3.4"/>
+  <path d="M 194 62 C 196 55 207 54 208 62 C 209 70 198 75 193 82 L 209 82" stroke="#E6EDF3" stroke-width="2.4"/>
+  <path d="M 250 80 C 242 74 230 78 228 89 C 226 100 235 107 243 102 C 248 99 250 92 251 84" stroke="#E6EDF3" stroke-width="3.4"/>
+  <path d="M 253 52 C 251 70 249 90 249 99 C 249 104 253 106 258 103" stroke="#E6EDF3" stroke-width="3.4"/>
+  <path d="M 266 76 C 275 86 285 95 293 103" stroke="#E6EDF3" stroke-width="3.4"/>
+  <path d="M 293 76 C 285 86 275 95 266 103" stroke="#E6EDF3" stroke-width="3.4"/>
+</g>
+<text x="425" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="2.5" fill="#E8A33D" text-anchor="middle" textLength="52" lengthAdjust="spacingAndGlyphs">HMER</text>
+<path d="M 372 90 L 470 90" stroke="#E8A33D" stroke-width="1.5"/>
+<path d="M 462 84 L 471 90 L 462 96" stroke="#E8A33D" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="530.0" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#E8A33D" textLength="93.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">\int_{</text>
+<text x="623.6" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#E6EDF3" textLength="15.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">0</text>
+<text x="639.2" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#E8A33D" textLength="46.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">}^{</text>
+<text x="686.0" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#E6EDF3" textLength="15.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1</text>
+<text x="701.6" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#E8A33D" textLength="15.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">}</text>
+<text x="732.8" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#E6EDF3" textLength="15.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">x</text>
+<text x="748.4" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#E8A33D" textLength="31.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">^{</text>
+<text x="779.6" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#E6EDF3" textLength="15.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2</text>
+<text x="795.2" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#E8A33D" textLength="15.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">}</text>
+<text x="810.8" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#E8A33D" textLength="31.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">\,</text>
+<text x="842.0" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#E6EDF3" textLength="31.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">dx</text>
+</svg>
