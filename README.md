@@ -90,12 +90,14 @@ detection — the modality on one side changes, the objective does not.
 
 ## Toolkit
 
-| | |
-|---|---|
-| **Research** | contrastive representation learning · self-supervised learning · preference optimization (DPO) · controlled ablation design |
-| **Models and training** | PyTorch · PyTorch Lightning · Transformers · LoRA / PEFT · LLaMA-Factory |
-| **Engineering and data** | Python · FastAPI · PostgreSQL / TimescaleDB · pandas · RDKit |
-| **Reproducibility** | Docker · Weights & Biases · MLflow · Git · Linux · LaTeX |
+<table>
+<tbody>
+<tr><td width="200"><b>Research</b></td><td>contrastive representation learning · self-supervised learning · preference optimization (DPO) · controlled ablation design</td></tr>
+<tr><td><b>Models and training</b></td><td>PyTorch · PyTorch Lightning · Transformers · LoRA / PEFT · LLaMA-Factory</td></tr>
+<tr><td><b>Engineering and data</b></td><td>Python · FastAPI · PostgreSQL / TimescaleDB · pandas · RDKit</td></tr>
+<tr><td><b>Reproducibility</b></td><td>Docker · Weights &amp; Biases · MLflow · Git · Linux · LaTeX</td></tr>
+</tbody>
+</table>
 
 ---
 
