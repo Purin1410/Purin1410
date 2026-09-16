@@ -1,119 +1,83 @@
-<div align="center">
+<h1 align="center">Hi, I'm Khoa Nguyen 👋</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="A handwritten integral expression transformed into its LaTeX token sequence" src="assets/hero-light.svg">
-</picture>
+<p align="center">
+  <strong>AI Engineer · AI Researcher</strong><br>
+  Computer Vision · Multimodal AI · AI Systems · Smart Manufacturing
+</p>
 
-# Khoa Nguyen
+<p align="center">
+  <a href="https://khoa-portfolio.vercel.app">Portfolio (WIP)</a> ·
+  <a href="https://www.linkedin.com/in/ngminhkhoa1410">LinkedIn</a> ·
+  <a href="https://scholar.google.com/citations?user=tCq7yoQAAAAJ">Google Scholar</a> ·
+  <a href="mailto:ngminhkhoayj2706@gmail.com">Email</a>
+</p>
 
-**Nguyễn Minh Khoa** · published as **Khoa Minh Nguyen**
-
-Handwritten mathematics&nbsp; ·&nbsp; molecular text&nbsp; →&nbsp; language-grounded industrial inspection
-
-B.Eng. Artificial Intelligence and Data Science, FPT University&nbsp; ·&nbsp; Research member, AiTA Lab
-
-[![Papers](https://img.shields.io/badge/Papers-4_accepted-B45309?style=flat-square)](#publications)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-334155?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=tCq7yoQAAAAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-334155?style=flat-square)](https://www.linkedin.com/in/ngminhkhoa1410)
-[![Email](https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:ngminhkhoayj2706@gmail.com)
-
-[Publications](#publications)&nbsp; ·&nbsp; [Research direction](#research-direction)&nbsp; ·&nbsp; [Toolkit](#toolkit)&nbsp; ·&nbsp; [Education](#education-and-recognition)
-
-</div>
-
-> [!NOTE]
-> Final-year B.Eng. candidate at FPT University and research member at AiTA Lab, with four
-> accepted conference papers on handwritten mathematical expression recognition and
-> cross-modal representation learning. I work on problems where structured outputs, visual
-> understanding, and language meet — and on the training pipelines that keep those
-> experiments reproducible.
+<p align="center">
+  <sub>Ho Chi Minh City, Vietnam · Open to AI / ML engineering and research roles</sub>
+</p>
 
 ---
 
-## Publications
+## About me
 
-<table>
-<thead>
-<tr>
-<th width="160">Venue</th>
-<th>Paper</th>
-<th width="130">Role</th>
-</tr>
-</thead>
-<tbody>
+I build AI systems across **research and engineering** — from problem formulation and controlled experiments to backend/data infrastructure, evaluation, and reproducible workflows. I care about systems that can be inspected, challenged, and improved rather than demos that only work once.
 
-<tr>
-<td valign="top"><b>APWeb-WAIM 2026</b><br><sub>accepted</sub></td>
-<td valign="top"><b>LexiChem</b><br><sub>Text-to-molecule generation, evaluated on the L+M-24 benchmark. Grew out of my undergraduate capstone system.</sub></td>
-<td valign="top">First author</td>
-</tr>
+- 🔬 **Research Assistant @ AiTA Lab, FPT University** since Oct 2024.
+- 🎓 Completed the academic requirements for a **B.Eng. in Artificial Intelligence & Data Science** at FPT University; degree conferral expected **Nov 2026**.
+- 🏭 Current research direction: **Adaptive Industrial Visual Intelligence**, with a near-term focus on language/specification-grounded visual inspection under limited target-domain data.
+- 🧩 My work spans **computer vision / VLMs, multimodal learning, research automation, backend/data systems, and reproducible ML experimentation**.
 
-<tr>
-<td valign="top"><b>APWeb-WAIM 2026</b><br><sub>accepted</sub></td>
-<td valign="top"><b>CorrTie: Correction-aware Tie-breaking for Active Learning with Vision-Language Models</b><br><sub>Acquisition strategy for active learning with VLMs. Gains of 7.14, 3.74, and 0.66 points at 1%, 2%, and 5% labelling budgets.</sub></td>
-<td valign="top">Co-author</td>
-</tr>
+## Selected work
 
-<tr>
-<td valign="top"><b>ICCIES 2026</b><br><sub>CCIS 2943</sub></td>
-<td valign="top"><a href="https://doi.org/10.1007/978-3-032-21625-0_16"><b>ChemAligner-T5: A Unified Text-to-Molecule Model via Representation Alignment</b></a><br><sub>Contrastive alignment of textual and molecular representations on BioT5+. 69.77% BLEU and 31.28% Levenshtein distance on L+M-24.</sub></td>
-<td valign="top">Co-first author</td>
-</tr>
+### 🔬 Research Ops — trustworthy research infrastructure
+A human-in-the-loop research infrastructure project aimed at reducing the attention required to make trustworthy scientific progress. The system treats **evidence, provenance, workflow state, checkpoints, and independent review** as first-class objects while keeping scientific decisions under human authority.
 
-<tr>
-<td valign="top"><b>ICDAR 2025</b><br><sub>LNCS 16025</sub></td>
-<td valign="top"><a href="https://doi.org/10.1007/978-3-032-04624-6_22"><b>Mask CoMER: Enhancing Handwritten Mathematical Expression Recognition with Masked Language Pretraining and Regularization</b></a><br><sub>Masked-language-model pretraining plus stochastic-depth regularization. ExpRate 64.56%, 63.03%, and 65.22% on CROHME 2014, 2016, and 2019 — up to 5 points over the CoMER baseline.</sub></td>
-<td valign="top">Co-first author</td>
-</tr>
+### 🧪 LexiChem — research + end-to-end AI system
+My graduation project and first-author APWeb-WAIM 2026 work on **text-to-molecule generation through shared-latent cross-modal alignment**. My contributions include data processing, method and ablation design, inference/backend optimization, and work on the end-to-end demo system.
 
-</tbody>
-</table>
+### 🏭 NexOps — smart-manufacturing systems engineering
+A smart-manufacturing / MES project spanning **IIoT-style telemetry, MQTT ingestion, time-series storage, FastAPI services, realtime updates, Andon/OEE workflows, and operator-facing dashboards**. It is one of the projects I use to connect AI work with manufacturing systems and production constraints.
 
----
+## Research
 
-## Research direction
+I currently have **five accepted/published papers** across handwritten mathematical expression recognition, text-to-molecule generation, active learning with vision-language models, and multimodal representation learning.
 
-My demonstrated work is in handwritten mathematical expression recognition and cross-modal
-alignment. The direction I am developing toward is **language-grounded industrial visual
-inspection**: using vision-language models to locate and explain manufacturing defects from
-natural-language descriptions, with an emphasis on zero- and few-shot generalization.
+| Year | Publication | Venue | Role |
+|---|---|---|---|
+| 2026 | **LexiChem: Shared-Latent Alignment for Faithful Text-to-Molecule Generation in SELFIES Space** | APWeb-WAIM | First author |
+| 2026 | **CorrTie: Correction-aware Tie-breaking for Active Learning with Vision-Language Models** | APWeb-WAIM | Co-author |
+| 2026 | **Enhancing handwritten mathematical expression recognition with convolutional block attention refinement module and multi-task learning** | Journal of Information and Telecommunication | Co-author |
+| 2026 | [**ChemAligner-T5: A Unified Text-to-Molecule Model via Representation Alignment**](https://doi.org/10.1007/978-3-032-21625-0_16) | ICCIES | Co-first author |
+| 2025 | [**Mask CoMER: Enhancing Handwritten Mathematical Expression Recognition with Masked Language Pretraining and Regularization**](https://doi.org/10.1007/978-3-032-04624-6_22) | ICDAR | Co-first author |
 
-The link is concrete rather than aspirational. The contrastive text-to-image alignment
-behind ChemAligner-T5 is the same machinery that WinCLIP and AnomalyCLIP apply to defect
-detection — the modality on one side changes, the objective does not.
+<p align="right"><a href="https://scholar.google.com/citations?user=tCq7yoQAAAAJ">View on Google Scholar →</a></p>
 
-*A direction in progress, not a claim of deployment or validation on real factory data.*
+## Open source
 
----
+Two merged contributions to [`sipyourdrink-ltd/bernstein`](https://github.com/sipyourdrink-ltd/bernstein):
 
-## Toolkit
+- [`fix(trace): authenticate projection audit evidence`](https://github.com/sipyourdrink-ltd/bernstein/pull/3672) — strengthened verification by binding signed projections to integrity-checked audit evidence.
+- [`fix(mcp): disclose tool host effects`](https://github.com/sipyourdrink-ltd/bernstein/pull/3673) — added explicit host-effect disclosure across MCP tool schemas and validation coverage.
 
-<table>
-<tbody>
-<tr><td width="200"><b>Research</b></td><td>contrastive representation learning · self-supervised learning · preference optimization (DPO) · controlled ablation design</td></tr>
-<tr><td><b>Models and training</b></td><td>PyTorch · PyTorch Lightning · Transformers · LoRA / PEFT · LLaMA-Factory</td></tr>
-<tr><td><b>Engineering and data</b></td><td>Python · FastAPI · PostgreSQL / TimescaleDB · pandas · RDKit</td></tr>
-<tr><td><b>Reproducibility</b></td><td>Docker · Weights &amp; Biases · MLflow · Git · Linux · LaTeX</td></tr>
-</tbody>
-</table>
+## Tech I reach for
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,postgres,docker,linux,git,githubactions,react,ts,latex&perline=12" alt="Core technologies" />
+  </a>
+</p>
+
+<p align="center">
+  <img alt="Hugging Face Transformers" src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img alt="LoRA and PEFT" src="https://img.shields.io/badge/Fine--tuning-LoRA%20%2F%20PEFT-7C3AED?style=flat-square" />
+  <img alt="TimescaleDB" src="https://img.shields.io/badge/Data-TimescaleDB-2563EB?style=flat-square" />
+  <img alt="MQTT" src="https://img.shields.io/badge/IIoT-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
+  <img alt="Weights and Biases" src="https://img.shields.io/badge/Experiment%20Tracking-W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" />
+  <img alt="MLflow" src="https://img.shields.io/badge/MLOps-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+</p>
 
 ---
 
-## Education and recognition
-
-**B.Eng. candidate, Artificial Intelligence and Data Science** — FPT University, expected 2026<br>
-<sub>Capstone: *LexiChem*, a text-to-molecule system with 2D/3D structure visualization, RDKit property computation, and multi-model inference serving.</sub>
-
-**Research member** — AiTA Lab, FPT University, 2024–present<br>
-**Member** — AIO2024, AI Vietnam
-
-Silver Medal, Vietnam National Open Mathematics Olympiad for High School Students (2021) · Merit Scholarship, FPT University · Innovation Project Grant, FPT University
-
----
-
-## Contact
-
-Open to conversations about HMER, multimodal learning, reproducible ML research, and
-language-grounded industrial vision — [ngminhkhoayj2706@gmail.com](mailto:ngminhkhoayj2706@gmail.com).
+<p align="center">
+  <em>Research rigor, engineering ownership, and systems that survive beyond the notebook.</em>
+</p>
