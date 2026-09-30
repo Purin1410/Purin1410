@@ -1,11 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="Handwritten mathematics transformed into structured representation" src="assets/hero-light.svg" width="960">
-</picture>
-
 # Khoa Nguyen
 ### Nguyễn Minh Khoa · published as **Khoa Minh Nguyen**
 
@@ -19,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khoa_Nguyen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngminhkhoa1410)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ngminhkhoayj2706@gmail.com)
 
-[About](#about-me)&nbsp; · &nbsp;[Featured Work](#selected-work)&nbsp; · &nbsp;[Publications](#research)&nbsp; · &nbsp;[Open Source](#open-source)&nbsp; · &nbsp;[Toolkit](#tech-i-reach-for)&nbsp; · &nbsp;[Honors](#education--recognition)
+[About](#about-me)&nbsp; · &nbsp;[Featured Work](#selected-work)&nbsp; · &nbsp;[Publications](#research)&nbsp; · &nbsp;[Toolkit](#tech-stack)&nbsp; · &nbsp;[Education & Honors](#education--recognition)
 
 </div>
 
@@ -27,9 +21,9 @@
 
 ## About me
 
-I build AI systems across **research and engineering** — from mathematical formulation and controlled experiments to backend runtimes, telemetry infrastructure, and reproducible pipelines. I care about systems that can be inspected, audited, and deployed reliably.
+I build AI systems across **research and engineering**, from mathematical formulation and controlled experiments to backend runtimes, telemetry infrastructure, and reproducible pipelines. I care about systems that can be inspected, audited, and deployed reliably.
 
-- 🔬 **Research Assistant @ AiTA Lab, FPT University** *(Oct 2024 – Present)*.
+- 🔬 **Research Assistant @ AiTA Lab, FPT University** *(Oct 2024 - Present)*.
 - 🎓 Completed academic requirements for **B.Eng. in Artificial Intelligence & Data Science** at FPT University *(degree conferral expected Nov 2026)*.
 - 🏭 Current research focus: **Adaptive Industrial Visual Intelligence (LG-IVI)**, specializing in language-grounded defect localization and inspection under zero- and few-shot constraints.
 - 🧩 Areas of interest: Multimodal representation learning, VLM active learning, agentic research workflows, and IIoT/MES platforms.
@@ -38,19 +32,20 @@ I build AI systems across **research and engineering** — from mathematical for
 
 ## Selected work
 
-### 🧪 [LexiChem](https://purin1410.github.io/work/lexichem/) — research + end-to-end AI system
+### 🧪 [LexiChem](https://purin1410.github.io/work/lexichem/) - Research and end-to-end AI system
 `Completed Capstone` · `First-author APWeb-WAIM 2026 Paper`
 - Natural-language to 2D/3D molecular generation through shared-latent cross-modal alignment in SELFIES space, evaluated on the L+M-24 benchmark.
+- Data preprocessing pipeline across 693,090 training examples with RDKit canonicalization and SELFIES conversion.
 - Multi-model serving pipeline with NVIDIA Triton Inference Server, RDKit chemical validation, and FastAPI backend.
 - 🔗 [Read Case Study](https://purin1410.github.io/work/lexichem/)
 
-### 🏭 [NexOps](https://purin1410.github.io/work/nexops/) — smart-manufacturing systems engineering
+### 🏭 [NexOps](https://purin1410.github.io/work/nexops/) - Smart-manufacturing systems engineering
 `Working Prototype` · `AI & Simulation Lead`
 - Local-first MES/SCADA runtime connecting machine telemetry, production schedules, alarms, and shift OEE.
-- Deterministic machine/shift simulations, MQTT pipelines via EMQX, and local Bambu Lab 3D printer hardware control over LAN.
+- Deterministic machine/shift simulations, MQTT pipelines via EMQX to FastAPI to TimescaleDB, and local Bambu Lab 3D printer hardware control over LAN.
 - 🔗 [Read Case Study & Demo](https://purin1410.github.io/work/nexops/)
 
-### 🔬 Research Ops — trustworthy research infrastructure
+### 🔬 Research Ops - Trustworthy research infrastructure
 `Pre-alpha` · `Personal System`
 - Human-in-the-loop research workspace designed to make scientific progress traceable and reproducible.
 - Treats evidence, provenance, SQLite case state, checkpoints, and bounded agent review as first-class primitives.
@@ -73,42 +68,41 @@ I currently have **five accepted or published papers** spanning handwritten math
 
 ---
 
-## Open source
-
-Two merged pull requests to upstream [`sipyourdrink-ltd/bernstein`](https://github.com/sipyourdrink-ltd/bernstein):
-
-- [`fix(trace): authenticate projection audit evidence`](https://github.com/sipyourdrink-ltd/bernstein/pull/3672) — strengthened verification by binding signed projections to integrity-checked audit evidence.
-- [`fix(mcp): disclose tool host effects`](https://github.com/sipyourdrink-ltd/bernstein/pull/3673) — added explicit host-effect disclosure across MCP tool schemas and validation coverage.
-
----
-
-## Tech I reach for
+## Tech stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,postgres,docker,linux,git,githubactions,react,ts,latex&perline=12" alt="Core Technologies" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,postgres,docker,linux,git,githubactions,latex&perline=10" alt="Core Technologies" />
   </a>
 </p>
 
-<p align="center">
-  <img alt="Hugging Face Transformers" src="https://img.shields.io/badge/Model_Framework-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img alt="LoRA and PEFT" src="https://img.shields.io/badge/Fine--tuning-LoRA%20%2F%20PEFT-7C3AED?style=flat-square" />
-  <img alt="TimescaleDB" src="https://img.shields.io/badge/Telemetry-TimescaleDB-2563EB?style=flat-square" />
-  <img alt="MQTT" src="https://img.shields.io/badge/IIoT-MQTT%20%2F%20EMQX-660066?style=flat-square&logo=mqtt&logoColor=white" />
-  <img alt="Weights and Biases" src="https://img.shields.io/badge/Tracking-W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" />
-  <img alt="Triton Server" src="https://img.shields.io/badge/Serving-NVIDIA_Triton-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-</p>
+<table>
+<tbody>
+<tr>
+<td width="24%"><b>AI &amp; Research</b></td>
+<td>Python · PyTorch · PyTorch Lightning · Hugging Face Transformers · scikit-learn · OpenCV · RDKit · Weights &amp; Biases · MLflow · NVIDIA Triton Inference Server</td>
+</tr>
+<tr>
+<td><b>Backend &amp; Data</b></td>
+<td>FastAPI · Pydantic · Pandas · PostgreSQL / TimescaleDB · MongoDB · Redis · MQTT / EMQX · REST APIs</td>
+</tr>
+<tr>
+<td><b>Engineering &amp; Reproducibility</b></td>
+<td>Docker · Docker Compose · Linux · Git · GitHub Actions · Nginx · Playwright · LaTeX</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
 ## Education & Recognition
 
-- **B.Eng. in Artificial Intelligence & Data Science** — FPT University *(Graduation expected Nov 2026)*
+- **B.Eng. in Artificial Intelligence & Data Science**, FPT University *(Graduation expected Nov 2026)*
   - Capstone: *LexiChem* (Text-to-molecule generation workbench and multi-model inference serving)
-- **AI VIET NAM (AIO 2024)** — Graduate of the 4-tier AI Fellowship *(Python, Machine Learning, Deep Learning, Generative AI & MLOps)*
-- **AiTA Lab** — Research Assistant *(2024 – Present)*
-- 🥈 **Silver Medal** — Vietnam National Open Mathematics Olympiad for High School Students (2021)
-- 🎓 **Merit Scholarship & Innovation Project Grant** — FPT University
+- **AI VIET NAM (AIO 2024)**: Graduate of the 4-tier AI Fellowship *(Python, Machine Learning, Deep Learning, Generative AI & MLOps)*
+- **AiTA Lab**: Research Assistant *(Oct 2024 - Present)*
+- 🥈 **Silver Medal**: Vietnam National Open Mathematics Olympiad for High School Students (2021)
+- 🎓 **50% Tuition Scholarship & Project Grants**: FPT University, SIHUB Innovation Quest, RESFES HCMC
 
 ---
 
