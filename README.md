@@ -60,7 +60,7 @@ I currently have **five accepted or published papers** spanning handwritten math
 |:---:|---|:---:|:---:|:---:|
 | 2026 | **LexiChem: Shared-Latent Alignment for Faithful Text-to-Molecule Generation in SELFIES Space** | APWeb-WAIM | **First author** | [Case Study](https://purin1410.github.io/work/lexichem/) |
 | 2026 | **CorrTie: Correction-aware Tie-breaking for Active Learning with Vision-Language Models** | APWeb-WAIM | Co-author | [Paper](https://link.springer.com/chapter/10.1007/978-981-92-5699-0_26) · [Code](https://github.com/TaiDuc1001/CorrTie) |
-| 2026 | **ChemAligner-T5: A Unified Text-to-Molecule Model via Representation Alignment** | ICCIES | **Co-first author** | [Paper](https://doi.org/10.1007/978-3-032-21625-0_16) |
+| 2026 | **ChemAligner-T5: A Unified Text-to-Molecule Model via Representation Alignment** | ICCIES | **Co-author** | [Paper](https://doi.org/10.1007/978-3-032-21625-0_16) |
 | 2026 | **Enhancing Handwritten Mathematical Expression Recognition with Convolutional Block Attention Refinement Module and Multi-Task Learning** | JIT *(Taylor & Francis)* | Co-author | [Paper](https://doi.org/10.1080/24751839.2026.2716432) · [Code](https://github.com/trungtndev/HMER-CBARM-MTL) |
 | 2025 | **Mask CoMER: Enhancing Handwritten Mathematical Expression Recognition with Masked Language Pretraining and Regularization** | ICDAR *(LNCS)* | **Co-author** | [Paper](https://doi.org/10.1007/978-3-032-04624-6_22) · [Code](https://github.com/Neeze/Mask-CoMER) |
 
